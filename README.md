@@ -1,2 +1,2 @@
-# UdacityProject#2: Investigate-The-Movie-Data-Set-
+# UdacityProject#2: Investigate The Movie Data Set 
 In this project I will be analayzing the movies data set which contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. My aim from this data anaylsis to be able to answer the following questions: 1- Who are the top 10 actors who have acted the most ? 2- Who are the top 10 directors who have directed the most ? 3- What genre is most used in the movie industry through the years ? 4-What are the top movies that has had the highest profits ? 5- Does the budget has an affect on the profits of the movie
